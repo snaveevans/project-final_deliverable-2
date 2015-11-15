@@ -5,3 +5,4 @@
 **NOTE:** Please use a PNG or PAINT editing application to add the new classes to *orig-class-diagram.png*
 3. Write unit-tests for the classes you added in step #2. **5 points**
 4. Write code that makes the unit-tests written in step #3 succeed. **10 points**
+
